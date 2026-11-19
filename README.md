@@ -16,7 +16,7 @@ for a moment, click **Cancel**.
 
 ## Install
 
-1. Download `Presenza-1.0.dmg`.
+1. Download `Presenza-1.0.dmg` from the [latest release](https://github.com/fabiosantaniellobruun/presenza/releases/latest).
 2. Open it and drag **Presenza** into **Applications**.
 3. Launch Presenza and allow camera access when macOS asks. Presenza lives in the menu bar, as an
    eye icon (there is no Dock icon).

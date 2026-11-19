@@ -16,7 +16,7 @@ solo girato un attimo, premi **Annulla**.
 
 ## Installazione
 
-1. Scarica `Presenza-1.0.dmg`.
+1. Scarica `Presenza-1.0.dmg` dall'[ultima release](https://github.com/fabiosantaniellobruun/presenza/releases/latest).
 2. Aprilo e trascina **Presenza** in **Applicazioni**.
 3. Avvia Presenza e consenti l'accesso alla fotocamera quando macOS lo chiede. Presenza vive nella
    barra dei menu, con l'icona di un occhio (non c'è l'icona nel Dock).
