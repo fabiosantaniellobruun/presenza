@@ -1,0 +1,28 @@
+/* Keys are the Italian texts in the code: Italian needs no table. */
+
+/* Menu bar */
+"Pausa" = "Pause";
+"Riprendi" = "Resume";
+"Blocca ora" = "Lock Now";
+"Impostazioni…" = "Settings…";
+"Esci da Presenza" = "Quit Presenza";
+"Presenza attiva" = "Presenza is on";
+"Presenza in pausa" = "Presenza is paused";
+"Presenza non può usare la fotocamera. Abilitala in Impostazioni di Sistema › Privacy e sicurezza › Fotocamera, poi riapri l'app." = "Presenza can't use the camera. Turn it on in System Settings › Privacy & Security › Camera, then reopen the app.";
+
+/* Warning before locking */
+"Te ne stai andando?" = "Heading out?";
+"Blocco lo schermo tra %lld s" = "Locking the screen in %lld s";
+"Annulla" = "Cancel";
+
+/* Settings */
+"Impostazioni di Presenza" = "Presenza Settings";
+"Blocca dopo" = "Lock after";
+"%lld secondi" = "%lld seconds";
+"Quanto aspettare, quando non ti vede più, prima di bloccare lo schermo." = "How long to wait, once you're out of view, before locking the screen.";
+"Lingua" = "Language";
+"Lingua del sistema" = "System language";
+"La nuova lingua vale dalla prossima apertura." = "The new language applies the next time Presenza opens.";
+"Riapri ora" = "Reopen Now";
+"Apri Presenza all'avvio del Mac" = "Open Presenza at login";
+"macOS chiede una conferma: Impostazioni di Sistema → Generali → Elementi login." = "macOS needs your approval: System Settings → General → Login Items.";

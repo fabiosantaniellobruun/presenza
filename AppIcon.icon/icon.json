@@ -1,0 +1,26 @@
+{
+  "fill" : {
+    "automatic-gradient" : "display-p3:1.00000,0.58431,0.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "PresenzaIcon.png",
+          "name" : "PresenzaIcon"
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : "shared"
+  }
+}

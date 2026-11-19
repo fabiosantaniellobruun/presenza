@@ -1,0 +1,2 @@
+/* The keys in the code are already Italian, so this table stays empty. It must exist anyway:
+   without it macOS falls back to the English table even when Italian is chosen. */

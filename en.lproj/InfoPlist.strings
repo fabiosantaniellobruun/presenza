@@ -1,0 +1,1 @@
+NSCameraUsageDescription = "Presenza uses the camera to tell whether you're at your Mac and to lock it when you get up. Frames are analysed on the spot and never saved or sent anywhere.";
