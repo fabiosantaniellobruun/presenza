@@ -74,3 +74,7 @@ builds `Presenza.app`, signed ad hoc, and runs its self-check.
 ```
 
 also builds `dist/Presenza-<version>.dmg`, to share.
+
+## License
+
+[MIT](LICENSE) © 2026 Fabio Santaniello Bruun

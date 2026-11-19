@@ -74,3 +74,7 @@ crea `Presenza.app`, firmata ad hoc, e ne esegue il selftest.
 ```
 
 crea anche `dist/Presenza-<versione>.dmg`, da distribuire.
+
+## Licenza
+
+[MIT](LICENSE) © 2026 Fabio Santaniello Bruun
